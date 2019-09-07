@@ -1,0 +1,42 @@
+p{
+  text-align: center;
+  font-family: 'Libre Caslon Text', serif;
+  color: #060C59;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color: #060C59;
+  border-style: double;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Libre Caslon Text', cursive;
+  color: #060C59;
+}
+body {
+  background-color: #40A4DB;
+  font-family: 'Fugaz One', cursive;
+  margin-top: auto;
+  margin-left: 13%;
+  margin-right: 13%;
+  background-image: url(http://www.designspartan.com/wp-content/themes/theme1/images/tutoriel/wallpaper/1.JPG);
+
+}
+
+div{
+  line-height: 1.6;
+}
+
+button{
+  color:white;
+  background-color:#273b59;
+  border-style:none;
+  border-radius:1500px;
+  /* font-family: 'Snowburst One', cursive; */
+  font-family:"allura";
+  height:100px;
+  width:100px;
+}
